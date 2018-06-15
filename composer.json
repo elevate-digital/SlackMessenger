@@ -1,0 +1,11 @@
+{
+	"name": "elevate-digital/slack-messenger",
+	"description": "Send messages using a slack web hook",
+	"type": "library",
+	"require": {},
+	"autoload": {
+		"psr-0": {
+			"SlackMessager": "src/"
+		}
+	}
+}
